@@ -1,2 +1,0 @@
-print("test the word");
-print(test the word2");
