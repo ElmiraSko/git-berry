@@ -2,3 +2,4 @@ print("Hello world");
 print("Hello everybody");
 print("Help!!!");
 print("Ура! Двигаемся дальше.");
+print("Внесем очередные изменения");
