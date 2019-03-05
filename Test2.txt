@@ -1,4 +1,0 @@
-print("Goodbye world");
-print("Goodye and finish");
-print("Goodbye my friend");
-print("Good and good");
